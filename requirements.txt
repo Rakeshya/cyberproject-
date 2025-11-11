@@ -1,5 +1,5 @@
-pip install gunicorn
-gunicorn
+gunicorn==23.0.0
+
 absl-py==2.3.1
 annotated-types==0.7.0
 astunparse==1.6.3
@@ -71,5 +71,6 @@ wordcloud==1.9.4
 wrapt==1.17.3
 xgboost==3.0.5
 xxhash==3.5.0
+
 
 
